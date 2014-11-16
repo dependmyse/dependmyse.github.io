@@ -24,7 +24,7 @@ It is just because Life is too mysterious to be expressed by words that it cause
 there is no doubt we can often hear a lot of people surrounding us complaining about how cruel life is and how unfair life is to them. But is it the truth I am afraid not ! in fact what we should do and the only thing we can do facing now  the dog_eat_dog society is spare no effort to study and develop ourselves to guarantee us to have an advantage over others rather spend our parents’ money and compliant about life.
 
 
-if you are still confused about life ,I can give you a suggestion, have a close look at you parents you will know the meaning of life and what you should know!
+If you are still confused about life ,I can give you a suggestion, have a close look at you parents you will know the meaning of life and what you should know!
 
 
 
