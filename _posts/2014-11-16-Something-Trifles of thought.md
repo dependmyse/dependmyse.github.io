@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I Am Simple
+title: Trivial Of Thought
 description: "I Am Simple"
 tags: [myself]
 image:
