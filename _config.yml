@@ -9,14 +9,14 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Xiangyang Lai
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "简单的我，简单的生活，希冀通过努力获取生活的馈赠！"
+  email:          dependmyse@email.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         
+  github:         https://github.com/dependmyse
   stackexchange:  
   linkedin:       
   instagram:      
