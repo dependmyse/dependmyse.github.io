@@ -1,5 +1,5 @@
 
- <center>**Trifles of thought **</center>
+
 
 In the busy life,we have countless trouble to solve .we struggle for life.and the life drives us to sacrifice our time to earn money to satisfy our enthusiasm for material .we dare not stay our step for our lust.we are always running in our own life ,however ,is that what we want?what are we living for?do we still have dreams?can weguarantee that we can smile to ourselfves and say to ourselves that we don't spend our life in vain proudly?
 
