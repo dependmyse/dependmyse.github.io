@@ -1,10 +1,6 @@
 ---
-layout: post
-title: I Am Simple
-description: "I Am Simple"
-tags: [myself]
-image:
-  background: triangular.png
+layout: post_page
+title: I am simple
 ---
 
 
