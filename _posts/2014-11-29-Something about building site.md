@@ -17,6 +17,8 @@ title: Something about building site
 > - 图片轮播插件太多，不再介绍
 
 > - 照片墙插件推荐fancybox
+> - 轮播插件推荐 Owl Carousel
+
 
 
 
