@@ -3,7 +3,6 @@ layout: post_page
 title: Something about building site
 ---
 
-**建站总结**
 
 - Dedecms配置
 > 导入数据库配置文件以后需要注意的地方，
